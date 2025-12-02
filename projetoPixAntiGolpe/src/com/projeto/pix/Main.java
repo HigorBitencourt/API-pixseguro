@@ -6,6 +6,8 @@ public class Main {
 
     public static void main(String[] args) {
 
+        new TelaPrincipal();
+
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("=== SISTEMA ANTI GOLPE PIX ===");
